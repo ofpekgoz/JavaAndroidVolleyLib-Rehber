@@ -1,0 +1,2 @@
+rootProject.name='Udemy_70_Uygulama_Kisiler_VolleyKutuphanesi'
+include ':app'
